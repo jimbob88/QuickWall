@@ -3,3 +3,8 @@ rules:
   - base: master
     upstream: deepjyoti30:master    
     mergeMethod: merge
+    assignees:
+      - jimbob88
+    reviewers:
+      - jimbob88
+label: ":clap: [automatic pull request]"
